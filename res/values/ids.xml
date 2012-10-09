@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="task_do_something" type="id"/>
+    <item name="task_do_fire_and_forget" type="id"/>
+
+</resources>
